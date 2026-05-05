@@ -1,0 +1,24 @@
+# Mohammed Afroze — Cybersecurity Portfolio
+
+Personal portfolio website of Mohammed Afroze, Cybersecurity Analyst & VAPT Specialist.
+
+## 🔗 Live Site
+https://afroze43222.github.io
+
+## 👤 About
+- **Role:** Cybersecurity Analyst – VAPT
+- **Company:** West Advance Technologies Indian Pvt. Ltd.
+- **Location:** Bangalore, India
+- **Email:** mohammedafroze.h3@gmail.com
+
+## 🛡️ Specializations
+- Web Application & API VAPT
+- Network Penetration Testing
+- AWS Cloud Security Audit
+- Azure Cloud Security Audit
+- Microsoft 365 Security Audit
+
+## 📁 Files
+- `index.html` — Main portfolio website (self-contained, no dependencies)
+- `resume.pdf` — Latest resume
+- `afroze.jpg` — Profile photo
